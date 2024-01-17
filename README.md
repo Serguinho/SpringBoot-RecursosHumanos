@@ -1,1 +1,1 @@
-Backend de la aplicacion de Recursos Humanos.
+Backend de la aplicación de Recursos Humanos.
